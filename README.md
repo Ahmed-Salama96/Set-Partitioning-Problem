@@ -1,0 +1,2 @@
+# Set-Partitioning-Problem
+Class project in Bioinformatics algorithms subject. This python code Takes an array and checks if it can be divided into two arrays but the sum of elements of the first array must equal the sum of elements of the second array, notice that the two arrays may be in different size but the sum of elements should be equal EX: (1,2,,3,2,1,1) will be (2,3) and (1,2,1,1). This solves a problem in Bioinformatics called Double Digest Problem, in which we have two enzymes and try to cut them with equal size
